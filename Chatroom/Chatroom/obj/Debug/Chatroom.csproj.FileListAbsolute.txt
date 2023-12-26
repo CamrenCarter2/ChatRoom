@@ -1,0 +1,11 @@
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\bin\Debug\Chatroom.exe.config
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\bin\Debug\Chatroom.exe
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\bin\Debug\Chatroom.pdb
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.csproj.AssemblyReference.cache
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.csproj.SuggestedBindingRedirects.cache
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.Properties.Resources.resources
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.csproj.GenerateResource.cache
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.csproj.CoreCompileInputs.cache
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.exe
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.pdb
+C:\Users\camre\OneDrive\Documents\GitHub\ChatRoom\Chatroom\Chatroom\obj\Debug\Chatroom.Form1.resources
